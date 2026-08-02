@@ -1,3 +1,3 @@
 # mygithub-demo
 This is my first Git Repository
-<br> Author - Sruthi
+<br> Author - Sruthi Rajendran
